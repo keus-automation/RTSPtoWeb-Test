@@ -13,7 +13,9 @@
     "https_cert": "server.crt",
     "https_key": "server.key",
     "https_port": ":443",
-    "ice_servers": ["stun:stun.l.google.com:19302"],
+    "ice_servers": [
+      "stun:stun.l.google.com:19302"
+    ],
     "log_level": "debug",
     "rtsp_port": ":5541",
     "token": {
@@ -24,15 +26,75 @@
     }
   },
   "streams": {
-    "27aec28e-6181-4753-9acd-0456a75f0289": {
+    "cam1": {
       "channels": {
         "0": {
-          "url": "rtmp://171.25.232.10/12d525bc9f014e209c1280bc0d46a87e",
+          "url": "rtsp://10.1.1.52:7447/ITw7JM1xHFoGxTeZ",
           "debug": false,
           "audio": true
         }
       },
       "name": "111111111"
-    }
+    },
+    "cam2": {
+      "channels": {
+        "0": {
+          "url": "rtsp://10.1.1.52:7447/pw3XsSV6DElSfbpz",
+          "debug": false,
+          "audio": true
+        }
+      },
+      "name": "111111111"
+    },
+    "cam3": {
+      "channels": {
+        "0": {
+          "url": "rtsp://10.1.1.52:7447/MkdVjl78z6FUy8TU",
+          "debug": false,
+          "audio": true
+        }
+      },
+      "name": "111111111"
+    }  ,
+    "cam4": {
+      "channels": {
+        "0": {
+          "url": "rtsp://10.1.1.52:7447/kJ7kTm8fCljNwPMV",
+          "debug": false,
+          "audio": true
+        }
+      },
+      "name": "111111111"
+    }  ,
+    "cam5": {
+      "channels": {
+        "0": {
+          "url": "rtsp://10.1.1.52:7447/7REtPRlobA6on78w",
+          "debug": false,
+          "audio": true
+        }
+      },
+      "name": "111111111"
+    }  ,
+    "cam6": {
+      "channels": {
+        "0": {
+          "url": "rtsp://10.1.1.52:7447/RGhuEUz4q0j66dLC",
+          "debug": false,
+          "audio": true
+        }
+      },
+      "name": "111111111"
+    }  ,
+    "cam7": {
+      "channels": {
+        "0": {
+          "url": "rtsp://10.1.1.52:7447/f13LPosb9yfIFU3t",
+          "debug": false,
+          "audio": true
+        }
+      },
+      "name": "111111111"
+    }  
   }
 }
