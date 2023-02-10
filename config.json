@@ -34,7 +34,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam1"
     },
     "cam2": {
       "channels": {
@@ -44,7 +44,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam2"
     },
     "cam3": {
       "channels": {
@@ -54,7 +54,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam3"
     }  ,
     "cam4": {
       "channels": {
@@ -64,7 +64,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam4"
     }  ,
     "cam5": {
       "channels": {
@@ -74,7 +74,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam5"
     }  ,
     "cam6": {
       "channels": {
@@ -84,7 +84,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam6"
     }  ,
     "cam7": {
       "channels": {
@@ -94,7 +94,7 @@
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "cam7"
     }  
   }
 }
