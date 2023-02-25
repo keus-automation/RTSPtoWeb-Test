@@ -22,7 +22,7 @@
       "backend": "http://127.0.0.1/test.php"
     },
     "defaults": {
-      "audio": false
+      "audio": true
     }
   },
   "streams": {
@@ -32,7 +32,7 @@
           "url": "rtsp://10.1.1.52:7447/ITw7JM1xHFoGxTeZ",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam1"
@@ -43,7 +43,7 @@
           "url": "rtsp://10.1.1.52:7447/pw3XsSV6DElSfbpz",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam2"
@@ -54,7 +54,7 @@
           "url": "rtsp://10.1.1.52:7447/MkdVjl78z6FUy8TU",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam3"
@@ -65,7 +65,7 @@
           "url": "rtsp://10.1.1.52:7447/kJ7kTm8fCljNwPMV",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam4"
@@ -76,7 +76,7 @@
           "url": "rtsp://10.1.1.52:7447/7REtPRlobA6on78w",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam5"
@@ -87,7 +87,7 @@
           "url": "rtsp://10.1.1.52:7447/RGhuEUz4q0j66dLC",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam6"
@@ -98,7 +98,7 @@
           "url": "rtsp://10.1.1.52:7447/f13LPosb9yfIFU3t",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam7"
@@ -109,7 +109,7 @@
           "url": "rtsp://10.1.1.52:7447/UjtUMKZAvpkIYe3A",
           "on_demand": true,
           "debug": false,
-          "audio": false
+          "audio": true
         }
       },
       "name": "cam8"
