@@ -29,7 +29,7 @@
     "cam1": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/BriVNqu3Uu6iWz3r",
+          "url": "rtsp://10.1.1.52:7447/a8HdvBBuGdwbgajs",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -40,7 +40,7 @@
     "cam2": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/weqlAQuAvm21yxVg",
+          "url": "rtsp://10.1.1.52:7447/wh5SY0GjxJV8vgMW",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -51,7 +51,7 @@
     "cam3": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/aTmAEVd1bsGTzj8h",
+          "url": "rtsp://10.1.1.52:7447/ThLYCqt3T7SSx2mV",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -62,7 +62,7 @@
     "cam4": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/hUrGTEzx1NMdBNht",
+          "url": "rtsp://10.1.1.52:7447/d8hntuCZrjjxtVcY",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -73,7 +73,7 @@
     "cam5": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/OZMiYGmcmwbMgQzQ",
+          "url": "rtsp://10.1.1.52:7447/v9G72QUtmt8AhjIr",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -84,7 +84,7 @@
     "cam6": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/KENHX0S8kxsTIJ6c",
+          "url": "rtsp://10.1.1.52:7447/k6MZ5ShU147fHlo1",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -95,7 +95,7 @@
     "cam7": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/iNyVY7gES2edNA5J",
+          "url": "rtsp://10.1.1.52:7447/jLaCdo9oODvXgv2a",
           "on_demand": true,
           "debug": false,
           "audio": false
@@ -106,7 +106,7 @@
     "cam8": {
       "channels": {
         "0": {
-          "url": "rtsp://10.1.1.52:7447/S85OS7tAT5KuJ8wv",
+          "url": "rtsp://10.1.1.52:7447/6KjZ7cukizrF9roo",
           "on_demand": true,
           "debug": false,
           "audio": false
